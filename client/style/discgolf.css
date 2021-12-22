@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1, h2, h3 {
+    color: rgb(0, 0, 0);
+    border: black;
+    border-radius: 30%;
+}
+
+/* #star-aviar {
+   list-style-image: url("https://library.kissclipart.com/20191018/riw/kissclipart-yellow-circle-flying-disc-743a1f55f440a2a2.png");\
+    
+} */
+
+#star-aviar {
+    text-decoration-color: yellow;
+}
